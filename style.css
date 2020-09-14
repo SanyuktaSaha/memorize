@@ -1,0 +1,25 @@
+#main-heading
+{
+    text-align: center;
+}
+
+
+#score-display
+{
+    display: inline-block;
+    float: left;
+    margin-left: 30%;
+    font-weight: 700;
+    font-size: larger;
+    padding: 10px;
+}
+
+#time
+{
+    display: inline-block;
+    float: right;
+    margin-right: 30%;
+    font-weight: 700;
+    font-size: larger;
+    padding: 10px;
+}
